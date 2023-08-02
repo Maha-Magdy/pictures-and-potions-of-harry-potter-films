@@ -51,11 +51,11 @@ body {
   align-items: center;
 }
 
-.panel > *:first-child {
-  transform: translateY(-100%);
+.panel > * {
+  transform: translateY(-200%);
 }
 
-.panel.open-active > *:first-child {
+.panel.open-active > * {
   transform: translateY(0);
 }
 
