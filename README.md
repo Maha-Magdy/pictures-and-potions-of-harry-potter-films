@@ -39,7 +39,9 @@ Here are the links to the live demo and the video demo of the Pictures and Potio
 
   
 
-https://github.com/Maha-Magdy/pictures-and-potions-of-harry-potter-films/assets/62838415/32bf5ddd-01f1-447c-8814-d8b841669ee9
+
+https://github.com/Maha-Magdy/pictures-and-potions-of-harry-potter-films/assets/62838415/817630f0-de63-496a-b300-ab3024215b9d
+
 
 
 
