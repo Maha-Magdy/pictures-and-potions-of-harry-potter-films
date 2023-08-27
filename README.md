@@ -1,4 +1,4 @@
-# Pictures-and-Potions-of-Harry-Potter-Films
+# Pictures and Potions of Harry Potter Films
 
 ## About
 
