@@ -19,6 +19,8 @@ Pictures & Potions of Harry Potter Films is a delightful gallery showcasing the 
 
 <a name="features"></a>
 
+## Features
+
 - Display the posters for the first four seasons of the Harry Potter movies.
 - Toggle the movie name display with a pleasant animation upon clicking the poster.
 
@@ -32,7 +34,7 @@ Begin your journey with Pictures and Potions of the Harry Potter Films by openin
 
 Here are the links to the live demo and the video demo of the Pictures and Potions of the Harry Potter Films:
 
--[Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/).
+- [Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/).
 - Video Demo
 
 <a name="installation"></a>
