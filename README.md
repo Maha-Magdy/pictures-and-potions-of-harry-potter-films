@@ -17,7 +17,45 @@ Pictures & Potions of Harry Potter Films is a delightful gallery showcasing the 
 - [ Contributing ](#contributing)
 - [ License ](#license)
 
+<a name="features"></a>
 
+- Display the posters for the first four seasons of the Harry Potter movies.
+- Toggle the movie name display with a pleasant animation upon clicking the poster.
+
+## Getting Started 
+
+Begin your journey with Pictures and Potions of the Harry Potter Films by opening the app in your web browser. Once you're in, you can interact with any of the film posters.
+
+<a name="demo"></a>
+
+## Demo
+
+Here are the links to the live demo and the video demo of the Pictures and Potions of the Harry Potter Films:
+
+-[Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/).
+- Video Demo
+
+<a name="installation"></a>
+
+## Installation
+
+To install the Pictures and Potions of the Harry Potter Films on your local machine, follow these steps:
+
+- Clone this repository: `git clone [https://github.com/Maha-Magdy/pictures-and-potions-of-harry-potter-films.git]`
+- Open the `index.html` file in your web browser
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Maha-Magdy/pictures-and-potions-of-harry-potter-films/issues).
+
+<a name="acknowledgments"></a>
+
+## Acknowledgments
+
+- <a href="https://javascript30.com/">JAVASCRIPT30 course</a> for Wes Bos
+- Harry Potter film posters <a href="https://www.wizardingworld.com/">WIZARDING WORLD</a>
 
 <a name="license"></a>
 
