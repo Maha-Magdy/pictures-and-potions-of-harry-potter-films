@@ -34,7 +34,7 @@ Begin your journey with Pictures and Potions of the Harry Potter Films by openin
 
 Here are the links to the live demo and the video demo of the Pictures and Potions of the Harry Potter Films:
 
-- [Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/).
+- [Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/)
 - Video Demo
 
 <a name="installation"></a>
